@@ -4,9 +4,12 @@
 - HTML
 - CSS
 ## Getting Started
-> To get a local copy up and running follow these simple example steps.
+> To get a local copy up and running follow these simple example steps. 
+
 -go to the directory that you want to clone the repository in.
+
 -right click and choose Git Bash here.
+
 -git clone git@github.com:git@github.com:Daphineatim/Hello-project.git
 
 ### Prerequisites
@@ -14,7 +17,6 @@
 - IDE
 - Git
 
-- 
 ## Authors
 
 ### :woman: **Daphine Atim**
