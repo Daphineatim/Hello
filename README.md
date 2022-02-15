@@ -20,9 +20,11 @@
 ## Authors
 
 ### :woman: **Daphine Atim**
--GitHub: [@Daphineatim] (https://github.com/Daphineatim)
--Twitter: [@dhaphyn] (https://twitter.com/DhaPhyn)
--LinkedIn: [DaphineAtim] (https://www.linkedin.com/in/daphine-atim-27861422a/)
+-GitHub: [@Daphineatim](https://github.com/Daphineatim)
+
+-Twitter: [@dhaphyn](https://twitter.com/DhaPhyn)
+
+-LinkedIn: [DaphineAtim](https://www.linkedin.com/in/daphine-atim-27861422a/)
 ### :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
 > Feel free to check the issues page.
